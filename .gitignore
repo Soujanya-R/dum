@@ -45,3 +45,7 @@ node_modules/
 .next/
 dist/
 .env
+
+
+AppData/
+Application Data/
